@@ -1,3 +1,3 @@
 # c-coursework
-Battleship game 
-using NCurses, for Linuxп
+Игра Морской Бой (Battle Ship)
+На языке C. С использованием бибилотеки NCurses, скомпилировано на Linux.
